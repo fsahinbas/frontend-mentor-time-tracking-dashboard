@@ -4,7 +4,7 @@ const links = document.querySelectorAll(".profile .body .link");
 let interval = "daily";
 
 const fetchData = async () => {
-  const response = await fetch("/data.json");
+  const response = await fetch("./data.json");
   const data = await response.json();
   const cards = data;
   cards.forEach((card) => {
