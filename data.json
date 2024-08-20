@@ -3,7 +3,7 @@
     "title": "Work",
     "className": "work",
     "color": "hsl(15, 100%, 70%)",
-    "image": "url(/images/icon-work.svg)",
+    "image": "url(./images/icon-work.svg)",
     "timeframes": {
       "daily": {
         "current": 5,
@@ -23,7 +23,7 @@
     "title": "Play",
     "className": "play",
     "color": "hsl(195, 74%, 62%)",
-    "image": "url(/images/icon-play.svg)",
+    "image": "url(./images/icon-play.svg)",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -43,7 +43,7 @@
     "title": "Study",
     "className": "study",
     "color": "hsl(348, 100%, 68%)",
-    "image": "url(/images/icon-study.svg)",
+    "image": "url(./images/icon-study.svg)",
     "timeframes": {
       "daily": {
         "current": 0,
@@ -63,7 +63,7 @@
     "title": "Exercise",
     "className": "exercise",
     "color": "hsl(145, 58%, 55%)",
-    "image": "url(/images/icon-exercise.svg)",
+    "image": "url(./images/icon-exercise.svg)",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -83,7 +83,7 @@
     "title": "Social",
     "className": "social",
     "color": "hsl(264, 64%, 52%)",
-    "image": "url(/images/icon-social.svg)",
+    "image": "url(./images/icon-social.svg)",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -103,7 +103,7 @@
     "title": "Self Care",
     "className": "self-care",
     "color": "hsl(43, 84%, 65%)",
-    "image": "url(/images/icon-self-care.svg)",
+    "image": "url(./images/icon-self-care.svg)",
     "timeframes": {
       "daily": {
         "current": 0,
